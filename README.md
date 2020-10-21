@@ -2,7 +2,7 @@
 
 Data processing workflow and supplementary data for:
 
-Harper *et al.* (2018) Assessment of habitat and survey criteria for the great crested newt (<i>Triturus cristatus</i>) in Scotland: a case study on a translocated population. <i>Hydrobiologia</i>.
+Harper *et al.* (2018) Assessment of habitat and survey criteria for the great crested newt (<i>Triturus cristatus</i>) in Scotland: a case study on a translocated population. *Hydrobiologia*, __828__, 57–71. https://doi.org/10.1007/s10750-018-3796-4
 
 Permanently archived at: [![DOI](https://zenodo.org/badge/153240863.svg)](https://zenodo.org/badge/latestdoi/153240863)
 
